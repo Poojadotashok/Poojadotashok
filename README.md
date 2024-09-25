@@ -1,6 +1,6 @@
 # Pooja Ashok
 
-I’m a developer and data analyst/scientist with a passion for building scalable software solutions and extracting insights from complex datasets. With a solid foundation in **software development** and **data analytics**, I focus on crafting data-driven solutions that drive business impact and operational efficiency.
+ hold a Master’s in Data Analytics and a Bachelor’s in Computer Science, with a passion for building scalable software solutions and extracting insights from complex datasets. My academic foundation in software development and data analytics enables me to craft data-driven solutions that drive business impact and operational efficiency.
 
 ### What I Bring to the Table
 I combine my experience in **software development** with expertise in **data science**, using technologies like **Python, SQL, and machine learning** to solve real-world problems. Whether it's optimizing code for better performance or analyzing data trends to inform decisions, I ensure that the solutions I build are both functional and impactful.
