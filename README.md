@@ -10,7 +10,7 @@ My experience spans software development, cloud technologies, data management, a
 - Flight Delay Analysis Platform  
   Collaborated on building a data-driven platform to analyze flight delays and cancellations. Leveraged Apache Hive for processing large-scale datasets and used AWS S3 for cloud storage. Integrated real-time delay insights into an interactive Tableau dashboard for improved decision-making by both travelers and airline operators.  
   Technologies: Hive, AWS, Tableau, GitLab  
-  [Flight Insights GitHub Repository](#link)
+  [Flight Insights GitHub Repository](#https://github.com/Poojadotashok/Cloud-Technologies)
 
 - Forex Predictive Models  
   Developed machine learning models using Python to predict currency price fluctuations in response to economic events. Focused on feature engineering and time-series analysis to enhance model accuracy.  
